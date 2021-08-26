@@ -1,0 +1,16 @@
+@font-face{
+	font-family:PTS75F;
+	src: url(../fonts/pt-sans/PTS75F.ttf);
+}
+@font-face{
+	font-family:PTS55F;
+	src: url(../fonts/pt-sans/PTS55F.ttf);
+}
+@font-face{
+	font-family:HelveticaNeueBold;
+	src: url(../fonts/Helvetica-Neue-FontHelvetica/NeueBold.ttf);
+}
+h1{
+	font-family:PTS55F;
+	font-weight: 500;
+}
